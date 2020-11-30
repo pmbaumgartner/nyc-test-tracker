@@ -1,9 +1,9 @@
-name: Fetch latest data, commit, then build and deploy with Datasette
+name: Fetch Data, Parse PDF, Push data to repo
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 */2 * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   scheduled:

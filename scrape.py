@@ -1,7 +1,7 @@
 import camelot
 import requests
 from tempfile import NamedTemporaryFile
-
+from datetime import datetime
 
 r = requests.get(
     "https://hhinternet.blob.core.windows.net/wait-times/testing-wait-times.pdf"
@@ -27,4 +27,4 @@ pivoted_data["Location"] = (
 )
 pivoted_data = pivoted_data.reset_index(drop=True)
 
-pivoted_data.to_csv(f"{date}.csv")
+pivoted_data.to_csv(f"{date}-{datetime.now()}.csv")
