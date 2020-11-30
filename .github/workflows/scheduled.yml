@@ -26,9 +26,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-      - name: Fetch, update and commit FARA data
+      - name: Download, parse, and structure wait time data
         run: python scrape.py
-      - name: Commit files
+      - name: Commit new CSV files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
