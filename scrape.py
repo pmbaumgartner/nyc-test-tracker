@@ -10,6 +10,8 @@ with NamedTemporaryFile(suffix=".pdf") as temppdf:
     temppdf.write(r.content)
     tables = camelot.read_pdf(temppdf.name, flavor="stream")
 
+scrape_timestamp = datetime.now()
+
 df = tables[0].df
 date = df.loc[0, 3].replace(" |", ", ").replace("/", "-")
 df_data = df.loc[1:, :].copy()
@@ -23,8 +25,13 @@ pivoted_data = pivoted_data.dropna()
 pivoted_data["Location"] = (
     pivoted_data["Location"]
     .str.replace("\n", "", regex=False)
-    .str.replace("(cid:415)", "", regex=False)
+    .str.replace("(cid:415)", "ti", regex=False)
+    .str.replace("(cid:425)", "tt", regex=False)
 )
+pivoted_data["Wait"] = pivoted_data["Wait"].str.replace("\n", "", regex=False)
+pivoted_data["Time Window"] = date
+pivoted_data["Scrape Timestamp"] = scrape_timestamp
 pivoted_data = pivoted_data.reset_index(drop=True)
 
-pivoted_data.to_csv(f"{date}-{datetime.now()}.csv")
+pivoted_data.to_csv(f"{date}-{scrape_timestamp}.csv")
+pivoted_data.to_csv(f"latest.csv")
