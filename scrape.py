@@ -25,8 +25,13 @@ if new_file:
     scrape_timestamp = datetime.now()
 
     df = tables[0].df
-    date = df.loc[0, 3].replace(" |", ", ").replace("/", "-")
-    df_data = df.loc[1:, :].copy()
+    date = (
+        df[df[3].str.contains("|", regex=False)][3]
+        .values[0]
+        .replace(" |", ", ")
+        .replace("/", "-")
+    )
+    df_data = df[df[0].str.strip() != ""].copy()
 
     melted_data = df_data.melt()
     melted_data["time"] = (melted_data.index % 2).map({0: "Location", 1: "Wait"})
