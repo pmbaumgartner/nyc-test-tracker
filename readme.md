@@ -8,3 +8,6 @@ This repo will automatically run the scraper every 15 minutes with a cronjob set
 
 The csv filenames are structured as `{two-hour time window}-{scrape timestamp}.csv`.
 
+### Changelog
+
+- 2020-11-30 21:07: Data now includes the time window as a column as well as the scrape time. The latest data is also stored in `latest.csv`. 
