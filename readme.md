@@ -10,4 +10,4 @@ The csv filenames are structured as `{two-hour time window}-{scrape timestamp}.c
 
 ### Changelog
 
-- 2020-11-30 21:07: Data now includes the time window as a column as well as the scrape time. The latest data is also stored in `latest.csv`. 
+- 2020-11-30 21:07: Data now includes the time window as a column as well as the scrape time. The latest data is also stored in `latest.csv`. Corrected some data cleaning issues with characters being parsed incorrectly and newlines being included in the wait times column.
