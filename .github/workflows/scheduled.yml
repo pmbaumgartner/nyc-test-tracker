@@ -28,6 +28,8 @@ jobs:
           pip install -r requirements.txt
       - name: Download, parse, and structure wait time data
         run: python scrape.py
+      - name: Generate static table in GH Pages
+        run: python site.py
       - name: Commit new CSV files
         run: |
           git config --local user.email "action@github.com"
@@ -35,6 +37,7 @@ jobs:
           git add *.csv
           git add data/*.csv
           git add md5
+          git add docs/index.html
           git commit -m "Add changes" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
