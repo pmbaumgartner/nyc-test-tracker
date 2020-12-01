@@ -1,97 +1,57 @@
 ,Location,Wait,Time Window,Scrape Timestamp
-0,,,,2020-12-01 16:15:41.736696
-1,,,,2020-12-01 16:15:41.736696
-2,,,,2020-12-01 16:15:41.736696
-3,,,,2020-12-01 16:15:41.736696
-4,,,,2020-12-01 16:15:41.736696
-5,196 Albany,No Wait Time,,2020-12-01 16:15:41.736696
-6,Bensonhurst 14th Avenue,Not Reported Yet,,2020-12-01 16:15:41.736696
-7,CU Woodside Houses CHC,Not Reported Yet,,2020-12-01 16:15:41.736696
-8,Harlem Hospital Center,Not Reported Yet,,2020-12-01 16:15:41.736696
-9,Lincoln Medical Center,Not Reported Yet,,2020-12-01 16:15:41.736696
-10,Old Broadway,Not Reported Yet,,2020-12-01 16:15:41.736696
-11,Starret City,No Wait Time,,2020-12-01 16:15:41.736696
-12,,,,2020-12-01 16:15:41.736696
-13,,,,2020-12-01 16:15:41.736696
-14,,T,,2020-12-01 16:15:41.736696
-15,,,,2020-12-01 16:15:41.736696
-16,,,,2020-12-01 16:15:41.736696
-17,4101 White Plains Road,Not Reported Yet,,2020-12-01 16:15:41.736696
-18,Brooklyn Army Terminal,< 30 Minutes,,2020-12-01 16:15:41.736696
-19,Cumberland Dtc,Not Reported Yet,,2020-12-01 16:15:41.736696
-20,Highbridge Pool,Not Reported Yet,,2020-12-01 16:15:41.736696
-21,Mariners Harbor Library,No Wait Time,,2020-12-01 16:15:41.736696
-22,Queens Hospital Center,< 90 Minutes,,2020-12-01 16:15:41.736696
-23,SY Dyckman Lcdla,Not Reported Yet,,2020-12-01 16:15:41.736696
-24,,,,2020-12-01 16:15:41.736696
-25,,,,2020-12-01 16:15:41.736696
-26,,his dashboard is refreshed at 15 minute intervals and displays es(cid:415)mated wait (cid:415)mes for NYC Health + Hospitals COVID-19 tes(cid:415)ng loca(cid:415)ons that are updated by site staﬀ every two hours.,,2020-12-01 16:15:41.736696
-27,Conﬁdential and dra(cid:332). This dashboard displays continuously-updated raw data and should be interpreted in the context of other available information. See terms of use.,,,2020-12-01 16:15:41.736696
-28,,,,2020-12-01 16:15:41.736696
-29,57 Cleveland Place,< 30 Minutes,,2020-12-01 16:15:41.736696
-30,Canarsie Municipal Lot,Not Reported Yet,,2020-12-01 16:15:41.736696
-31,Edward Grant,Not Reported Yet,,2020-12-01 16:15:41.736696
-32,Jacobi Medical Center,Not Reported Yet,,2020-12-01 16:15:41.736696
-33,Metropolitan Hospital ...,Not Reported Yet,,2020-12-01 16:15:41.736696
-34,Rain Boston Road Senio...,Not Reported Yet,,2020-12-01 16:15:41.736696
-35,SY St. Nicholas Chc,Not Reported Yet,,2020-12-01 16:15:41.736696
-36,,,,2020-12-01 16:15:41.736696
-37,Refresh Timestamp:,,,2020-12-01 16:15:41.736696
-38,12/1/2020 10:15:05 AM,,,2020-12-01 16:15:41.736696
-39,,S,,2020-12-01 16:15:41.736696
-40,10:00 AM - 11:59 AM,12/1/2020 | 10:00 AM - 11:59 AM,,2020-12-01 16:15:41.736696
-41,Bathgate Contract Post...,Not Reported Yet,,2020-12-01 16:15:41.736696
-42,CI Ida G Israel Chc,Not Reported Yet,,2020-12-01 16:15:41.736696
-43,Elmhurst Hospital Center,Not Reported Yet,,2020-12-01 16:15:41.736696
-44,JFK Airport,Not Reported Yet,,2020-12-01 16:15:41.736696
-45,Midwood,< 90 Minutes,,2020-12-01 16:15:41.736696
-46,Red Hook Recreational ...,No Wait Time,,2020-12-01 16:15:41.736696
-47,Sydenham,Not Reported Yet,,2020-12-01 16:15:41.736696
-48,COVID-19 Testing Wait Times,,,2020-12-01 16:15:41.736696
-49,,,,2020-12-01 16:15:41.736696
-50,,,,2020-12-01 16:15:41.736696
-51,,elect a Two-Hour Window,,2020-12-01 16:15:41.736696
-52,,,,2020-12-01 16:15:41.736696
-53,Bay Ridge 5th Avenue,Not Reported Yet,,2020-12-01 16:15:41.736696
-54,Co-op City Retail Space,Not Reported Yet,,2020-12-01 16:15:41.736696
-55,EY East New York DTC,Not Reported Yet,,2020-12-01 16:15:41.736696
-56,Kew Gardens,Not Reported Yet,,2020-12-01 16:15:41.736696
-57,Morrisania Diagnostic ...,Not Reported Yet,,2020-12-01 16:15:41.736696
-58,Sorrentino Recreationa...,Not Reported Yet,,2020-12-01 16:15:41.736696
-59,Sydenham Health Center,Not Reported Yet,,2020-12-01 16:15:41.736696
-60,,,,2020-12-01 16:15:41.736696
-61,,,,2020-12-01 16:15:41.736696
-62,,,,2020-12-01 16:15:41.736696
-63,,,,2020-12-01 16:15:41.736696
-64,,,,2020-12-01 16:15:41.736696
-65,Beach 39th,< 90 Minutes,,2020-12-01 16:15:41.736696
-66,Coney Island Hospital ...,Not Reported Yet,,2020-12-01 16:15:41.736696
-67,Fort Hamilton,< 60 Minutes,,2020-12-01 16:15:41.736696
-68,Kings County Hospital ...,< 30 Minutes,,2020-12-01 16:15:41.736696
-69,Mt. Loretto,Not Reported Yet,,2020-12-01 16:15:41.736696
-70,St. Albans,Not Reported Yet,,2020-12-01 16:15:41.736696
-71,Tremont Community Heal...,Not Reported Yet,,2020-12-01 16:15:41.736696
-72,,,,2020-12-01 16:15:41.736696
-73,,,,2020-12-01 16:15:41.736696
-74,,,,2020-12-01 16:15:41.736696
-75,,,,2020-12-01 16:15:41.736696
-76,,,,2020-12-01 16:15:41.736696
-77,Bellevue Hospital Center,Not Reported Yet,,2020-12-01 16:15:41.736696
-78,CU Jonathan Williams C...,Not Reported Yet,,2020-12-01 16:15:41.736696
-79,Gouverneur Healthcare,Not Reported Yet,,2020-12-01 16:15:41.736696
-80,LaGuardia Airport,No Wait Time,,2020-12-01 16:15:41.736696
-81,North Central Bronx Ho...,Not Reported Yet,,2020-12-01 16:15:41.736696
-82,St. George Ferry Termi...,< 90 Minutes,,2020-12-01 16:15:41.736696
-83,Windsor Park Library,< 30 Minutes,,2020-12-01 16:15:41.736696
-84,,COVID-19Intelligence@nychhc.org with,,2020-12-01 16:15:41.736696
-85,,ques(cid:415)ons or comments.,,2020-12-01 16:15:41.736696
-86,,,,2020-12-01 16:15:41.736696
-87,,,,2020-12-01 16:15:41.736696
-88,,,,2020-12-01 16:15:41.736696
-89,Belvis Diagnostic & Tr...,Not Reported Yet,,2020-12-01 16:15:41.736696
-90,CU Vanderbilt,Not Reported Yet,,2020-12-01 16:15:41.736696
-91,Greenbelt Recreational...,Not Reported Yet,,2020-12-01 16:15:41.736696
-92,Leﬀerts,Not Reported Yet,,2020-12-01 16:15:41.736696
-93,Northern Boulevard,< 60 Minutes,,2020-12-01 16:15:41.736696
-94,St. James Recreational...,Not Reported Yet,,2020-12-01 16:15:41.736696
-95,Woodhull Medical Center,Not Reported Yet,,2020-12-01 16:15:41.736696
+0,196 Albany,No Wait Time,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+1,Bensonhurst 14th Avenue,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+2,CU Woodside Houses CHC,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+3,Harlem Hospital Center,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+4,Lincoln Medical Center,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+5,Old Broadway,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+6,Starret City,No Wait Time,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+7,4101 White Plains Road,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+8,Brooklyn Army Terminal,< 30 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+9,Cumberland Dtc,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+10,Highbridge Pool,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+11,Mariners Harbor Library,No Wait Time,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+12,Queens Hospital Center,< 90 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+13,SY Dyckman Lcdla,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+14,57 Cleveland Place,< 30 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+15,Canarsie Municipal Lot,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+16,Edward Grant,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+17,Jacobi Medical Center,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+18,Metropolitan Hospital ...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+19,Rain Boston Road Senio...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+20,SY St. Nicholas Chc,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+21,Bathgate Contract Post...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+22,CI Ida G Israel Chc,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+23,Elmhurst Hospital Center,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+24,JFK Airport,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+25,Midwood,< 90 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+26,Red Hook Recreational ...,No Wait Time,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+27,Sydenham,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+28,Bay Ridge 5th Avenue,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+29,Co-op City Retail Space,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+30,EY East New York DTC,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+31,Kew Gardens,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+32,Morrisania Diagnostic ...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+33,Sorrentino Recreationa...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+34,Sydenham Health Center,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+35,Beach 39th,< 90 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+36,Coney Island Hospital ...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+37,Fort Hamilton,< 60 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+38,Kings County Hospital ...,< 30 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+39,Mt. Loretto,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+40,St. Albans,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+41,Tremont Community Heal...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+42,Bellevue Hospital Center,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+43,CU Jonathan Williams C...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+44,Gouverneur Healthcare,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+45,LaGuardia Airport,No Wait Time,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+46,North Central Bronx Ho...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+47,St. George Ferry Termi...,< 90 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+48,Windsor Park Library,< 30 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+49,Belvis Diagnostic & Tr...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+50,CU Vanderbilt,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+51,Greenbelt Recreational...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+52,Leﬀerts,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+53,Northern Boulevard,< 60 Minutes,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+54,St. James Recreational...,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
+55,Woodhull Medical Center,Not Reported Yet,"12-1-2020,  10:00 AM - 11:59 AM",2020-12-01 16:23:06.120499
