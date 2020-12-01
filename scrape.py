@@ -15,9 +15,9 @@ if hash_location.exists():
     new_file = hash_location.read_text() != pdf_hash
 else:
     new_file = True
-    hash_location.write_text(pdf_hash)
 
 if new_file:
+    hash_location.write_text(pdf_hash)
     with NamedTemporaryFile(suffix=".pdf") as temppdf:
         temppdf.write(r.content)
         tables = camelot.read_pdf(temppdf.name, flavor="stream")
