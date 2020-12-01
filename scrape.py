@@ -33,5 +33,6 @@ pivoted_data["Time Window"] = date
 pivoted_data["Scrape Timestamp"] = scrape_timestamp
 pivoted_data = pivoted_data.reset_index(drop=True)
 
-pivoted_data.to_csv(f"{date}-{scrape_timestamp}.csv")
+pivoted_data.to_csv(f"data/{date}-{scrape_timestamp}.csv")
+pivoted_data.to_csv(f"data/latest.csv")
 pivoted_data.to_csv(f"latest.csv")
