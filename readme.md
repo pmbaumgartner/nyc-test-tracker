@@ -14,3 +14,4 @@ The csv filenames are structured as `{two-hour time window}-{scrape timestamp}.c
 - 2020-11-30 21:14: Data moved to the `data` folder, copy of `latest.csv` included in root dir.
 - 2020-12-01 08:28: Added `md5` hash of PDF content to check if PDF is a new file. If not a new file, don't parse or add a new csv.
 - 2020-12-01 11:20: Made scraper more robust to changes in PDF structure.
+- 2020-12-05 3:00: Updated to account for new structure of PDF: including update times and a new PDF structure (increased resolution). Added playwright to take screenshot of scraped PDF and include in docs for debugging.
