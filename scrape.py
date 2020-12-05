@@ -44,7 +44,7 @@ if new_file:
     all_values = tables[0].df.values.ravel()
     parsed_values = [value_parser(cell) for cell in all_values]
     df = pd.DataFrame(parsed_values)
-
+    df["Scrape Timestamp"] = scrape_timestamp
     df.to_csv(f"data/{scrape_timestamp}.csv")
     df.to_csv("data/latest.csv")
     df.to_csv("latest.csv")
