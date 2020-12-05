@@ -1,5 +1,18 @@
 from pathlib import Path
 import pandas as pd
+from playwright import sync_playwright
+from time import sleep
+
+with sync_playwright() as p:
+    browser = p.firefox.launch()
+    page = browser.newPage()
+    page.goto(
+        "https://hhinternet.blob.core.windows.net/wait-times/testing-wait-times.pdf",
+        waitUntil="networkidle",
+    )
+    sleep(1)
+    page.screenshot(path="docs/screenshot.png")
+    browser.close()
 
 HTML_FRONT = """
 <!DOCTYPE html>
@@ -23,6 +36,7 @@ HTML_FRONT = """
 
 HTML_END = """
     <p><a href="https://hhinternet.blob.core.windows.net/wait-times/testing-wait-times.pdf">source</a></p>
+    <p>PDF at time of scrape<img src="screenshot.png"></p>
     </div>
   </body>
 </html>
