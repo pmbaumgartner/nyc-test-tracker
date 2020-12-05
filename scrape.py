@@ -36,8 +36,8 @@ if new_file:
         tables = camelot.read_pdf(
             temppdf.name,
             flavor="stream",
-            row_tol=30,
-            table_areas=["41,453,751,153"],
+            row_tol=60,
+            table_areas=["28,655,1412,0"],
             layout_kwargs={"detect_vertical": False},
         )
 
